@@ -1,0 +1,117 @@
+ body{
+            
+            margin: 0px;
+            border: 0px; 
+            padding-top: 70px;
+            background-color: rgba(34, 234, 218, 0)
+        }
+        
+        #navbar{
+            width: 100%;
+            height: 60px;
+            color: white;
+            background-color:rgba(35, 134, 134, 0.22);
+            position: fixed;
+            top: 0;
+    
+            
+        }
+        #linkref{
+              color: white;
+              text-decoration: none;
+              padding: 15px;
+              text-align: center;
+            font-size: 40px;
+            
+        }  
+        a:hover{
+            background-color: rgba(16, 106, 106, 0.75);
+        }
+        a:active{
+            background-color: aqua;
+            
+        }
+          .level1{
+           font-family: cursive;
+            text-align: center;
+            font-size: 20px;
+        }
+.level2{
+    font-family: cursive;
+    text-align: center;
+    font-size: 20px;
+}
+.level3{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.level4{
+font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.level5{
+    text-align: center;
+        font-size: 20px;
+    font-family: cursive
+}
+ p{
+    font-family: Sitka Small;
+}
+.level5 img{
+    
+    margin-left: 10px;
+    border: solid black 1px;
+}
+.level5 p{
+    margin-top: 150px;
+    font-size: 30px;
+    font-style: italic
+}
+.level6 p{
+margin-top: 200px;
+    font-size: 20px;
+}
+.level6{
+    background-color: rgba(202, 213, 248, 0.15)
+}
+.level7{
+    font-size: 17px;
+    background-color: rgba(202, 213, 248, 0.15)
+}
+.level7 img{
+     margin-left: 10px;
+      border: solid black 1px;
+}
+.level7 p{
+    font-size: 23px;
+}
+.level8 p{
+    font-size: 23px;
+    margin-top: 80px;
+    background-color: rgba(202, 213, 248, 0.15)
+}
+.level8 img{
+    margin-top: -35px;
+}
+.level9{
+    font-size: 25px;
+font-size: 30px;
+    background-color:rgba(202, 213, 248, 0.15);
+    margin-right: 100px;
+
+}
+.level9 img{
+    margin-top: 10px;
+    position: fixed;
+}
+.level10{
+    font-size: 30px;
+    margin-top: 50px;
+    background-color:rgba(202, 213, 248, 0.15)
+}
+.level11{
+    font-size: 29px;
+    background-color: rgba(202, 213, 248, 0.15)
+}
